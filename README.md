@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <a href = 'https://www.linkedin.com/in/ozan-ali-kayacı'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/ozanakayaci'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
-<br/><br/>
+<br/>
 
 ![Metrics](https://metrics.lecoq.io/ozanakayaci?template=classic&config.timezone=America%2FToronto)
 
