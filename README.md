@@ -1,7 +1,7 @@
 Hi 👋 My name is Ozan Ali Kayacı
 ================================
 
-Frondend Developer
+Front-End Developer
 ------------------
 
 * 🌍  I'm based in Istanbul
