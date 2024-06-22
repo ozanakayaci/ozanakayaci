@@ -3,7 +3,7 @@
 
 <br />
 
-- 👨‍💻 All of my projects are available at <a href="ozanalikayaci.me" target="_blank">ozanalikayaci.me</a>
+- 👨‍💻 All of my projects are available at <a href="https://ozanalikayaci.me/" target="_blank">ozanalikayaci.me</a>
 
 - 📫 How to reach me **[ozanalikayaci@gmail.com](mailto:ozanalikayaci@gmail.com)**
 
