@@ -3,7 +3,7 @@
 
 <br />
 
-- 👨‍💻 All of my projects are available at **[ozanalikayaci.me](ozanalikayaci.me)**
+- 👨‍💻 All of my projects are available at [ozanalikayaci.me](ozanalikayaci.me)
 
 - 📫 How to reach me **[ozanalikayaci@gmail.com](mailto:ozanalikayaci@gmail.com)**
 
